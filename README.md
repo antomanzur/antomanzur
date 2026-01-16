@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Antonella Manzur </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Anto</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGl4OXR4azQ4M215a2RqZ3FhdzM3NnQyZDByaWRrMXlja3NnN2tzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hjZ3T2Eso1wJ8QWoCl/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -10,6 +10,9 @@ I am graduated Informatics Engineer and I love to learn something new every day.
 - Outside of work, 📖 I love to read books (specially fantasy), 🎥 watch movies and series, 🎮 play videogames ,🎵 listen to music, ⚽ sports and 🌴 explore nature outdoors.
 - ✔️ Ask me about anything, I am happy to help
 - 📫 Reach out to me at <a href="antonellamanzur@gmail.com">antonellamanzur@gmail.com</a>
+- 💻 <a href="https://www.linkedin.com/in/antonella-manzur/">My LinkedIn</a>
+- 🧰 <a href="https://github.com/antomanzur/cv/blob/main/Antonella_Manzur_CV.pdf">My CV</a>
+
 
 ## My Skills Include
 
