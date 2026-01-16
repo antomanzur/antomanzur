@@ -5,9 +5,8 @@
 I am graduated Informatics Engineer and I love to learn something new every day. <br> </br> <img align="right" style="width:16rem; height:auto" src="https://i.giphy.com/gSJ5Q7Uh8Fi4E.webp" />
 
 - 🌱 I’m currently learning ...
-  - Microservices
-  - GCP
-  - Django Framework
+  - RAG Architectures
+  - LLM's
 - Outside of work, 📖 I love to read books (specially fantasy), 🎥 watch movies and series, 🎮 play videogames ,🎵 listen to music, ⚽ sports and 🌴 explore nature outdoors.
 - ✔️ Ask me about anything, I am happy to help
 - 📫 Reach out to me at <a href="antonellamanzur@gmail.com">antonellamanzur@gmail.com</a>
